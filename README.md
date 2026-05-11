@@ -4,7 +4,9 @@ Somos el equipo "az-zaiteros creepers" y este es nuestro cuaderno digital de WRO
 ## Objetivo
 El objetivo de esta prueba consiste en dar vueltas alrede dor de una centro que estara colocado aleatoriamente en el tablero cuadrado que recorreremos, debemos de hacer esto sin que se choque con ninguna pared.
 ## Materiales
+La estructura del robot fué impresa con PLA de diferentes colores por falta de disponibilidad. Los PLAs usados son negro para la base, gris para el eje y amarillo ocre para nivelar los motores con la rueda de maneje. También como cerebro del robot usamos una placa de arduino, un (missing names), para los detectores usamos tres ultra sonidos y WIP, finalmente para la energía usamos un portapilas estandar que funciona con pilas de 3.7 voltios.
 ## Mecánica
+
 ## Programación
 ## Problemas encontrados
 ## Conclusiones
