@@ -9,5 +9,6 @@ La estructura del robot fué impresa con PLA de diferentes colores por falta de 
 
 ## Programación
 ## Problemas encontrados
+La colocación del eje fue difícil y tuvimos que hacer varios modelos antes de llegar al actual, debemos de arreglar un  problema del eje que provoca que el mecanismo se atasque y no funcione correctamente.
 ## Conclusiones
 ## Propuestas de mejora
