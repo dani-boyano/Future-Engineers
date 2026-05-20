@@ -13,7 +13,7 @@ El objetivo de esta prueba consiste en dar vueltas alrededor de un centro que es
 ## Materiales
 La estructura del robot fué impresa con PLA de diferentes colores por falta de disponibilidad. Los PLAs usados son negro para la base, gris para el eje y amarillo ocre para nivelar los motores con la rueda de maneje. También como cerebro del robot usamos una placa de arduino y un _shield_ con una protoboard encima. Para los detectores usamos tres ultra sonidos y, finalmente, para la energía usamos un portapilas estandar que funciona con pilas de 3.7 voltios.
 
-Para más información: [materiales]([https://pages.github.com/](https://github.com/dani-boyano/Future-Engineers/tree/main/materiales)).
+Para más información: [materiales](https://github.com/dani-boyano/Future-Engineers/tree/main/materiales)).
 
 
 ## Mecánica
