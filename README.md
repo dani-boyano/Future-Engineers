@@ -17,7 +17,7 @@ Para más información: [materiales](https://github.com/dani-boyano/Future-Engin
 
 ## Mecánica
 
-Para más información: [problemas encontrados](https://github.com/dani-boyano/Future-Engineers/tree/main/problemas_detectados)
+Para más información: [mecánica]((https://github.com/dani-boyano/Future-Engineers/tree/main/mecanica))
 ## Programación
 
 Para más información: [problemas encontrados](https://github.com/dani-boyano/Future-Engineers/tree/main/problemas_detectados)
