@@ -20,7 +20,7 @@ Para más información: [materiales](https://github.com/dani-boyano/Future-Engin
 Para más información: [mecánica]((https://github.com/dani-boyano/Future-Engineers/tree/main/mecanica))
 ## Programación
 
-Para más información: [problemas encontrados](https://github.com/dani-boyano/Future-Engineers/tree/main/problemas_detectados)
+Para más información: [programación]((https://github.com/dani-boyano/Future-Engineers/tree/main/programacion))
 ## Problemas encontrados
 La colocación del eje fue difícil y tuvimos que hacer varios modelos antes de llegar al actual, debemos de arreglar un  problema del eje que provoca que el mecanismo se atasque y no funcione correctamente. Ciertos PLAs, usados principalmente en el eje, muestran gran fragilidad y poca resistencia a los esfuerzos.
 
