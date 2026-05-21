@@ -27,4 +27,4 @@ La colocación del eje fue difícil y tuvimos que hacer varios modelos antes de 
 Para más información: [problemas encontrados](https://github.com/dani-boyano/Future-Engineers/tree/main/problemas_detectados)
 ## Conclusiones
 ## Propuestas de mejora
-Para más información: [problemas encontrados]
+Para más información: [problemas encontrados](https://github.com/dani-boyano/Future-Engineers/tree/main/propuestas_de_mejora)
