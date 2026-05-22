@@ -4,5 +4,8 @@ En esta sección vamos a hablar en profundidad de los problemas detectados en  c
 Este eje contaba desde un principio de un funcionamiento complejo, su posicionamiento nos dio ciertos problemas en cuanto a posicón respecto a otras piezas en relatividad con su movimiento. Además, estas piezas deben resistir el rozamiento del servomotor, lo que provocó algunas roturas en algunas piezas durante del funcionamiento del mismo.
 El funcionamiento del eje se basó en varios modelos de soportes hasta llegar al actual
 
+### -PLAs:
+La fragilidad del PLA provoca la ruptura de ciertas piezas teniendo en cuenta las fuerzas externas que le ejercen, como tornillos o el movimiento ejercido.
+
 
  
