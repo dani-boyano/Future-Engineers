@@ -22,7 +22,7 @@ Este robot basa su movimiento en un motor trasero unidireccional, dirigido por u
 
 Para más información: [mecánica](https://github.com/dani-boyano/Future-Engineers/tree/main/mecanica)
 ## Programación
-Para la programación en este proyecto hemos empleado Arduino 
+Para la programación en este proyecto hemos empleado Arduino,
 
 Para más información: [programación](https://github.com/dani-boyano/Future-Engineers/tree/main/programacion)
 ## Problemas encontrados
@@ -34,3 +34,4 @@ Añadir componentes adicionales como el giroscopio o la cámara, así como mejor
 
 Para más información: [propuestas de mejora](https://github.com/dani-boyano/Future-Engineers/tree/main/propuestas_de_mejora)
 ## Conclusiones
+En definitiva, hemos desarrollado un proyecto desde 0, en el cual comprendemos el funcionamiento de un robot cuyo programa realiza el objetivo de la WRO de Future Eingnieers.
