@@ -1,3 +1,5 @@
+Hemos usado para la fabricación de este robot los siguientes materiales:
+
 + Motor
 + Servomotor
 + Escudo
