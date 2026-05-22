@@ -1,5 +1,5 @@
 # Future-Engineers
-Somos el equipo "az-zaiteros creepers" y este es nuestro cuaderno digital de la WRO donde hablaremos acerca de nuestro robot, los problemas encontrados, la programación y el reto entre otras cosas relativas al proyecto.
+Somos el equipo "az-zaiteros creepers" comformado por Daniel Boyano Lomas, Óliver López MartÍnez y Carmen Cruz Pérez del instituto IES Az-zait y este es nuestro cuaderno digital de la WRO donde hablaremos acerca de nuestro robot, los problemas encontrados, la programación y el reto entre otras cosas relativas al proyecto.
 ## Condiciones previas
 Las condiciones necesarias para competir en future engineers son las siguientes:
 - Los parámetros del robot tienen que ser los siguientes:
@@ -13,7 +13,7 @@ Este proyecto consta de dos pruebas:
 El objetivo de esta primera prueba consiste en dar vueltas alrededor de un centro que estará colocado aleatoriamente en el tablero cuadrado que recorreremos, debemos de hacer esto sin que se choque con ninguna pared, a ser posible.
 En la segunda prueba trataremos de esquivar unos obstáculos de distintos colores colocados aleatoriamente.
 ## Materiales
-La estructura del robot fué impresa con PLA de diferentes colores por falta de disponibilidad. Los PLAs usados son negro para la base, gris para el eje y amarillo ocre para nivelar los motores con la rueda de maneje. También como cerebro del robot usamos una placa de Arduino y un _shield_ con una protoboard encima. Para los detectores usamos tres ultra sonidos y, finalmente, para la energía usamos un portapilas estandar que funciona con baterías de 3.7 voltios.
+La estructura del robot fué impresa con PLA de diferentes colores por falta de disponibilidad. Los PLAs usados son negro para la base, gris para el eje y amarillo ocre para nivelar los motores con la rueda de maneje. También como cerebro del robot usamos una placa de Arduino y un _shield_ con una protoboard encima. Para los detectores usamos tres ultrasonidos y, finalmente, para la energía usamos un portapilas estandar que funciona con baterías de 3.7 voltios.
 
 Para más información: [materiales](https://github.com/dani-boyano/Future-Engineers/tree/main/materiales)
 
