@@ -22,7 +22,7 @@ Este robot basa su movimiento en un motor trasero unidireccional, dirigido por u
 
 Para más información: [mecánica](https://github.com/dani-boyano/Future-Engineers/tree/main/mecanica)
 ## Programación
-Para la programación en este proyecto hemos empleado Arduino,
+Para la programación en este proyecto hemos empleado Arduino, en un inicio empleamos dos libreriías, para los ultrasonidos y para el servomotor.
 
 Para más información: [programación](https://github.com/dani-boyano/Future-Engineers/tree/main/programacion)
 ## Problemas encontrados
@@ -30,7 +30,7 @@ La colocación del eje fue difícil y tuvimos que hacer varios modelos antes de 
 
 Para más información: [problemas encontrados](https://github.com/dani-boyano/Future-Engineers/tree/main/problemas_detectados)
 ## Propuestas de mejora
-Añadir componentes adicionales como el giroscopio o la cámara, así como mejorar en la participación de la segunda prueba de este proyecto.
+Añadir componentes adicionales como el giroscopio o la cámara, así como mejorar en la participación de la segunda prueba de este proyecto, puliendo su programación asprando a obtener la máxima puntuación.
 
 Para más información: [propuestas de mejora](https://github.com/dani-boyano/Future-Engineers/tree/main/propuestas_de_mejora)
 ## Conclusiones
