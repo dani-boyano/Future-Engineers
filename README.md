@@ -33,5 +33,6 @@ Para más información: [problemas encontrados](https://github.com/dani-boyano/F
 Añadir componentes adicionales como el giroscopio o la cámara, así como mejorar en la participación de la segunda prueba de este proyecto, puliendo su programación asprando a obtener la máxima puntuación.
 
 Para más información: [propuestas de mejora](https://github.com/dani-boyano/Future-Engineers/tree/main/propuestas_de_mejora)
+## Electrónica
 ## Conclusiones
 En definitiva, hemos desarrollado un proyecto desde 0, en el cual comprendemos el funcionamiento de un robot cuyo programa realiza el objetivo de la WRO de Future Eingnieers.
