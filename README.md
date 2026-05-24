@@ -34,6 +34,7 @@ Añadir componentes adicionales como el giroscopio o la cámara, así como mejor
 
 Para más información: [propuestas de mejora](https://github.com/dani-boyano/Future-Engineers/tree/main/propuestas_de_mejora)
 ## Electrónica
-Nuestro robot cuenta con una fuente de alimentación basada en 2 pilas 
+Nuestro robot cuenta con una fuente de alimentación basada en 2 baterías de 3.7V por ud. modelo TR18650 de 9900mAH, todas las conexiones están canalizadas energéticamente por un escudo modelo   . Además, todas las conexiones están unidas a una placa arduino que tiene una protoboard incorporada.
+Para más información:[Electrónica]()
 ## Conclusiones
 En definitiva, hemos desarrollado un proyecto desde 0, en el cual comprendemos el funcionamiento de un robot cuyo programa realiza el objetivo de la WRO de Future Eingnieers.
