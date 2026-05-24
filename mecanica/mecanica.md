@@ -1,1 +1,8 @@
 # Mecánica
+### Chasis:
+
+### Motor trasero unidireccional:
+Este mecanismo nos ayuda a poder controlar el robot de manera más rápida y sencilla haciendo posible el desplazamiento del mismo.
+### Servomotor:
+El servomotor proporciona la fuerza junto a un eje de direcciones que nos permite controlar la orientación del robot de manera curvilínea y unidireccional. Junto al mecanismo anterior podemos controlar el mismo.
+
