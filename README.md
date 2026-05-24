@@ -22,7 +22,8 @@ Este robot basa su movimiento en un motor trasero unidireccional, dirigido por u
 
 Para más información: [mecánica](https://github.com/dani-boyano/Future-Engineers/tree/main/mecanica)
 ## Programación
-Para la programación en este proyecto hemos empleado Arduino, en un inicio empleamos dos libreriías, para los ultrasonidos y para el servomotor.
+Para la programación en este proyecto hemos empleado Arduino.
+En un inicio empleamos dos libreriías, para los ultrasonidos y para el servomotor.
 
 Para más información: [programación](https://github.com/dani-boyano/Future-Engineers/tree/main/programacion)
 ## Problemas encontrados
@@ -35,6 +36,7 @@ Añadir componentes adicionales como el giroscopio o la cámara, así como mejor
 Para más información: [propuestas de mejora](https://github.com/dani-boyano/Future-Engineers/tree/main/propuestas_de_mejora)
 ## Electrónica
 Nuestro robot cuenta con una fuente de alimentación basada en 2 baterías de 3.7V por ud. modelo TR18650 de 9900mAH, parte de las conexiones están canalizadas energéticamente por un escudo de protección. Además, todas las conexiones están unidas a una placa arduino que tiene una protoboard incorporada en la cual realizamos el cableado de los diversos sensores.
+
 Para más información:[Electrónica](https://github.com/dani-boyano/Future-Engineers/blob/main/Electr%C3%B3nica)
 ## Conclusiones
 En definitiva, todo el proceso de creación de nuestro proyecto para la prueba de future engineers nos ha permitido aprender mucho más que solo competir. Desde la construcción del vehículo hasta la programación y las distintas pruebas realizadas, hemos tenido que trabajar en equipo, resolver errores y mejorar constantemente nuestro diseño para conseguir que funcionara de la mejor manera posible. Gracias a esta experiencia hemos desarrollado conocimientos de robótica, programación e ingeniería, además de habilidades como la creatividad, la paciencia y la capacidad de buscar soluciones ante los problemas que iban surgiendo durante el proyecto.
