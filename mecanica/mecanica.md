@@ -1,6 +1,6 @@
 # Mecánica
 ### Chasis:
-
+Esta estructura nos permite soportar todos los componentes del robot dándonos la capacidad de transportarlos.
 ### Motor trasero unidireccional:
 Este mecanismo nos ayuda a poder controlar el robot de manera más rápida y sencilla haciendo posible el desplazamiento del mismo.
 ### Servomotor:
