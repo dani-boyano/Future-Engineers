@@ -3,7 +3,7 @@ Hemos usado para la fabricación de este robot los siguientes materiales:
 
 + Motor
 + Servomotor
-+ Escudo
++ Escudo L298N
 + Porta baterías
 + 2 baterías de 3.7V por ud. modelo TR18650 de 9900mAH
 + Placa base modelo Arduino UNO
@@ -13,4 +13,6 @@ Hemos usado para la fabricación de este robot los siguientes materiales:
 + Soporte dirección
 + Soporte ultrasonidos (3)
 + Chasis del robot
-+ 
++ Taco impreso 3D de equilibrio del chasis
++ Sensores ultrasonidos HC-SR04 (3)
++ Cables para las conexiones
