@@ -27,7 +27,7 @@
 ### Ruedas (4)
 
 
-### Sistema de direcciones
+### Eje de direcciones
 
 
 ### Soporte dirección
@@ -42,9 +42,11 @@
 ### Taco impreso 3D de equilibrio del chasis
 
 
-+Sensores ultrasonidos HC-SR04 (3)
+### Sensores ultrasonidos HC-SR04 (3)
 
 
-+Cables para las conexiones
+### Cables para las conexiones Macho-Hembra y Macho-Macho
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/d1522ffa-9f29-401e-b401-cca6f5c66501" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8f94733e-5011-4f1c-b62a-f27ac9aadff1" />
 
 
