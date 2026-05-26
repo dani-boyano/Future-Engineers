@@ -28,11 +28,11 @@
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bd467438-78b6-44e5-adcc-fe45f9f1f4d0" />
 
-### Rudas delanteras
+### Ruedas delanteras
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/dc962fdc-a65b-42cd-a439-4e6487687d27" />
 
-### Eje de direcciones
+### Eje de direcciones"
 
 
 ### Soporte dirección
