@@ -46,6 +46,7 @@
 
 ### Chasis del robot
 
+<img width="808" height="436" alt="Captura de robot" src="https://github.com/user-attachments/assets/c5d88382-e062-4e4f-b745-2b5d4d7c9d81" />
 
 ### Taco impreso 3D de equilibrio del chasis
 
