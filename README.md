@@ -18,7 +18,7 @@ En la segunda prueba trataremos de esquivar unos obstáculos, en concreto torres
 ## Materiales
 La estructura del robot fué impresa con PLA de diferentes colores debido a la falta de disponibilidad. Los PLAs implementados son negro para la base, gris para el eje y amarillo ocre para nivelar los motores con la rueda de maneje. También como cerebro del robot usamos una placa de Arduino y un _shield_ con una protoboard encima. Para los detectores usaremos tres ultrasonidos y, finalmente, para la energía usamos un portapilas estandar que funciona con baterías de 3.7 voltios.
 
-Para más información: [materiales](https://github.com/dani-boyano/Future-Engineers/tree/main/materiales)
+Para más información: [materiales](https://github.com/dani-boyano/Future-Engineers/blob/main/materiales/materiales.md)
 
 ## Mecánica
 Este robot basa su movimiento en un motor trasero unidireccional, dirigido por un servomotor con un rango de 180 posiciones conectado a un complejo sistema de direcciones que regulan la posición de las ruedas delanteras, manejando a su vez la orientación del robot.
