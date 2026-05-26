@@ -1,5 +1,6 @@
 # Future-Engineers
 Somos el equipo "az-zaiteros creepers" comformado por Daniel Boyano Lomas, Óliver López MartÍnez y Carmen Cruz Pérez del instituto IES Az-zait. Este cuaderno digital recoge toda la infornación acerca de nuestro robot, los problemas encontrados, la programación y el reto entre otras cosas relativas al proyecto para la realización de la competición World Robot Olimpiad. 
+
 Nuestra principal misión ha sido construir y diseñar un vehículo autónomo, siguiendo las indicaciones del torneo. Este vehículo debe de ser capaz de trasladarse de forma independiente, tomar decisiones con sus respectivos senores, entre otros, superando los retos que se proponen en dicho torneo.
 ## Condiciones previas
 Las condiciones necesarias para competir en future engineers son las siguientes:
@@ -12,6 +13,7 @@ Las condiciones necesarias para competir en future engineers son las siguientes:
 ## Objetivo
 Este proyecto consta de dos pruebas:
 El objetivo de esta primera prueba consiste en dar vueltas alrededor de un centro, dicho centro estará colocado aleatoriamente en el tablero cuadrado que recorreremos, debemos de hacer esto sin que se choque con ninguna pared, a ser posible.
+
 En la segunda prueba trataremos de esquivar unos obstáculos, en concreto torres, de distintos colores colocados de manera no definida por el tablero. En esta prueba será oportuno el uso de la cámara, para poder detectar correctamente dichos colores de manera efectiva, aunque actualmente no disponemos de ella, debido a falta de tiempo.
 ## Materiales
 La estructura del robot fué impresa con PLA de diferentes colores debido a la falta de disponibilidad. Los PLAs implementados son negro para la base, gris para el eje y amarillo ocre para nivelar los motores con la rueda de maneje. También como cerebro del robot usamos una placa de Arduino y un _shield_ con una protoboard encima. Para los detectores usaremos tres ultrasonidos y, finalmente, para la energía usamos un portapilas estandar que funciona con baterías de 3.7 voltios.
