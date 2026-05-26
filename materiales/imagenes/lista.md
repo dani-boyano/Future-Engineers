@@ -24,8 +24,13 @@
 
 <img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/161358a6-fdf1-443d-bc0d-3d4ee5aa6ad6" />
 
-### Ruedas (4)
+### Ruedas traseras(2) y motor
 
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/bd467438-78b6-44e5-adcc-fe45f9f1f4d0" />
+
+### Rudas delanteras
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/dc962fdc-a65b-42cd-a439-4e6487687d27" />
 
 ### Eje de direcciones
 
