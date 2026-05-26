@@ -54,6 +54,7 @@
 
 ### Sensores ultrasonidos HC-SR04 (3)
 
+<img width="894" height="676" alt="image" src="https://github.com/user-attachments/assets/59aa2b0d-153b-4bdf-8dbc-84cce513b1da" />
 
 ### Cables para las conexiones Macho-Hembra y Macho-Macho
 <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/d1522ffa-9f29-401e-b401-cca6f5c66501" />
