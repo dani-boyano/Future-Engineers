@@ -1,7 +1,7 @@
 # Materiales
 Hemos usado para la fabricación de este robot los siguientes materiales:
 
-+ Motor
++ Motor 6V DC 100 RPM con reductora
 + Servomotor
 + Escudo L298N
 + Porta baterías
