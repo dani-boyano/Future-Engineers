@@ -40,6 +40,7 @@
 
 ### Soporte dirección
 
+<img width="729" height="431" alt="Captura del humilde y grandioso modelo del robot" src="https://github.com/user-attachments/assets/a5767117-bc9d-4b95-951e-f9e4596a59f3" />
 
 ### Soporte ultrasonidos (3)
 
