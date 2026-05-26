@@ -2,7 +2,7 @@
 Hemos usado para la fabricación de este robot los siguientes materiales:
 
 + Motor 6V DC 100 RPM con reductora
-+ Servomotor
++ Servomotor Ds04-nfc 360 Grados
 + Escudo L298N
 + Porta baterías
 + 2 baterías de 3.7V por ud. modelo TR18650 de 9900mAH
