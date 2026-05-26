@@ -16,5 +16,5 @@ Hemos usado para la fabricación de este robot los siguientes materiales:
 + Taco impreso 3D de equilibrio del chasis
 + Sensores ultrasonidos HC-SR04 (3)
 + Cables para las conexiones
-+ 
-[imágenes](https://github.com/dani-boyano/Future-Engineers/blob/main/materiales/imagenes/lista.md)
+
+[lista de imágenes](https://github.com/dani-boyano/Future-Engineers/blob/main/materiales/imagenes/lista.md)
