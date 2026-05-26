@@ -26,7 +26,7 @@
 
 ### Ruedas traseras (2) y motor
 
-<img width="894" height="735" alt="image" src="https://github.com/user-attachments/assets/bd467438-78b6-44e5-adcc-fe45f9f1f4d0" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bd467438-78b6-44e5-adcc-fe45f9f1f4d0" />
 
 ### Rudas delanteras
 
