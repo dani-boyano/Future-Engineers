@@ -4,6 +4,8 @@
 
 ### Servomotor Ds04-nfc 360 Grados 
 
+<img width="894" height="868" alt="image" src="https://github.com/user-attachments/assets/8ea24ab4-78a6-40f7-ac15-28abbad303a4" />
+
 ### Escudo L298N
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/68ecfcd4-67b7-4d7a-8701-39046c70c384" />
