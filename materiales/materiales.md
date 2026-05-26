@@ -16,3 +16,5 @@ Hemos usado para la fabricación de este robot los siguientes materiales:
 + Taco impreso 3D de equilibrio del chasis
 + Sensores ultrasonidos HC-SR04 (3)
 + Cables para las conexiones
++ 
+[imágenes](
