@@ -23,7 +23,7 @@ Para más información: [materiales](https://github.com/dani-boyano/Future-Engin
 ## Mecánica
 Este robot basa su movimiento en un motor trasero unidireccional, dirigido por un servomotor con un rango de 180 posiciones conectado a un complejo sistema de direcciones que regulan la posición de las ruedas delanteras, manejando a su vez la orientación del robot. La base de nuestro vehículo es un chasis impreso en una máquina de 3D, utilizamos este material para facilitar futuras modificaciones. Esta mecánica permite realizar giros precisos, corregir trayectorias y además mantener estabilidad durante el movimiento.
 
-Para más información: [mecánica](https://github.com/dani-boyano/Future-Engineers/tree/main/mecanica)
+Para más información: [mecánica](https://github.com/dani-boyano/Future-Engineers/blob/main/mecanica/mecanica.md)
 ## Programación
 Para la programación en este proyecto hemos empleado Arduino.
 En un inicio empleamos dos librerías, una para los ultrasonidos y otra para el servomotor.
