@@ -34,8 +34,9 @@
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/dc962fdc-a65b-42cd-a439-4e6487687d27" />
 
-### Eje de direcciones"
+### Eje de direcciones
 
+<img width="727" height="453" alt="Captura del ingenioso modelo de la mancha" src="https://github.com/user-attachments/assets/1185ebbe-5e56-4eb4-9c81-265e15cc143a" />
 
 ### Soporte dirección
 
