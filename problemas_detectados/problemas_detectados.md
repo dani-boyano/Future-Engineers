@@ -5,7 +5,7 @@ Este eje contaba desde un principio de un funcionamiento complejo, su posicionam
 El funcionamiento del eje se basó en varios modelos de soportes hasta llegar al actual
 
 ### -PLAs:
-La fragilidad del PLA provoca la ruptura de ciertas piezas teniendo en cuenta las fuerzas externas que le ejercen, como tornillos o el movimiento ejercido.
+Aunque este material presenta ventajas como la facilidad de impresión, el bajo coste y además cierta ligereza, hemos observado que la fragilidad del PLA ha provoado la ruptura de ciertas piezas teniendo en cuenta las fuerzas externas que le ejercen, como tornillos o el movimiento ejercido.
 
 
  
