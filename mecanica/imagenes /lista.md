@@ -7,7 +7,7 @@ Imagen del modelo de la base del robot en _tinkercad_ <img width="808" height="4
 
 
 
-Imagen de un modelo primitivo del soborte del eje en _tinkercad_ <img width="729" height="431" alt="Captura del humilde y grandioso modelo del robot" src="https://github.com/user-attachments/assets/a5767117-bc9d-4b95-951e-f9e4596a59f3" />
+Imagen de un modelo primitivo del soporte del eje en _tinkercad_ <img width="729" height="431" alt="Captura del humilde y grandioso modelo del robot" src="https://github.com/user-attachments/assets/a5767117-bc9d-4b95-951e-f9e4596a59f3" />
 
 
 
