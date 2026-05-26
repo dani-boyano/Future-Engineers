@@ -17,4 +17,4 @@ Hemos usado para la fabricación de este robot los siguientes materiales:
 + Sensores ultrasonidos HC-SR04 (3)
 + Cables para las conexiones
 + 
-[imágenes](
+[imágenes](https://github.com/dani-boyano/Future-Engineers/blob/main/materiales/imagenes/lista.md)
