@@ -1,3 +1,4 @@
+
 ### Motor 6V DC 100RPM con reductora
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/18cb946e-41ed-4af2-9ffc-ff4cc82648cc" />
@@ -51,6 +52,7 @@
 
 ### Taco impreso 3D de equilibrio del chasis
 
+<img width="627" height="495" alt="WIN_20260527_11_08_17_Pro" src="https://github.com/user-attachments/assets/998dda15-7708-43a0-85b2-8663ec526a60" />
 
 ### Sensores ultrasonidos HC-SR04 (3)
 
