@@ -14,8 +14,7 @@
 
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/a803d5a6-ea4e-401a-b3f2-2378617c003c" />
 
-### 2 baterías de 3.7V por ud. modelo TR18650 de 9900mAH
-
+### 2 baterías de 3.7V por ud. modelo TR18650 de 9900mA
 <img width="1140" height="855" alt="image" src="https://github.com/user-attachments/assets/f1c23651-4ad1-4986-bc9c-45a7363bc8d0" />
 
 ### Placa base modelo Arduino UNO
@@ -26,9 +25,9 @@
 
 <img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/161358a6-fdf1-443d-bc0d-3d4ee5aa6ad6" />
 
-### Ruedas traseras (2) y motor
+### Ruedas traseras (2) 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bd467438-78b6-44e5-adcc-fe45f9f1f4d0" />
+<img width="225" height="225" alt="descarga" src="https://github.com/user-attachments/assets/8fb4f00e-5fab-4130-b5cf-82abd4e73ad9" />
 
 ### Ruedas delanteras
 
@@ -44,6 +43,7 @@
 
 ### Soporte ultrasonidos (3)
 
+<img width="609" height="444" alt="WIN_20260527_10_51_08_Pro" src="https://github.com/user-attachments/assets/2dbe91b9-e355-46cf-80bb-3f33fa83ed3c" />
 
 ### Chasis del robot
 
