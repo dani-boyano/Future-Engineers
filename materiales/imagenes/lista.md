@@ -58,6 +58,5 @@
 
 ### Cables para las conexiones Macho-Hembra y Macho-Macho
 <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/d1522ffa-9f29-401e-b401-cca6f5c66501" />
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8f94733e-5011-4f1c-b62a-f27ac9aadff1" />
 
 
