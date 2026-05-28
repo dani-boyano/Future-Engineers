@@ -34,12 +34,11 @@
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/dc962fdc-a65b-42cd-a439-4e6487687d27" />
 
-###  Primer eje de direcciones
+###  Soporte de direcciones
 
 <img width="727" height="453" alt="Captura del ingenioso modelo de la mancha" src="https://github.com/user-attachments/assets/1185ebbe-5e56-4eb4-9c81-265e15cc143a" />
 
-### Soporte dirección
-
+### Primer eje de direcciones
 <img width="729" height="431" alt="Captura del humilde y grandioso modelo del robot" src="https://github.com/user-attachments/assets/a5767117-bc9d-4b95-951e-f9e4596a59f3" />
 
 ### Soporte ultrasonidos (3)
